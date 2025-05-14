@@ -1,0 +1,43 @@
+header  {
+    text-align: center;
+    color:#FCDA53;
+    background-color: #76D6FF;
+}
+header h1{
+    display:flex;
+}
+main h1{
+    text-align: center;
+}
+.pic{
+    width: 45%;
+    justify-content: start;
+    display: flex;
+}
+
+.pic2{
+    width: 50%;
+    justify-content: start;
+    display: flex;
+}
+
+body {
+    background-color: #FFE75E;
+}
+
+footer h1{
+    text-align: center;
+}
+
+footer {
+    background-color:#D9D9D9;
+}
+.center {
+ border: 10px dotted rgb(0, 0, 0)
+}
+.tyrcix {
+    border: 10px dashed rgb(0, 0, 0)
+}
+h3 {
+    background-color: azure;
+}
